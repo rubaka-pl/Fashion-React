@@ -26,3 +26,11 @@ This project is a landing page for a fashion website, built using React. 🎨
 4. Start the development server: `npm start`
 
 
+## How to Build 🔨
+
+To create an optimized production build of the project:
+
+1. Ensure all dependencies are installed: `npm install`
+2. Run the build script: `npm run build`
+
+This will generate a `build` directory with a production-ready version of the application.
