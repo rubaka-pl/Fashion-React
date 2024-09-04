@@ -2,7 +2,7 @@
 
 This project is a landing page for a fashion website, built using React. 🎨
 ## Preview
-https://66d82c5b176d697ef0412287--statuesque-flan-1005d0.netlify.app/
+https://symphonious-puppy-f3559c.netlify.app/
 
 ## Features 🛠️
 
