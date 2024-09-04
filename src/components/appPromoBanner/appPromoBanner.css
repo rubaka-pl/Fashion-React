@@ -1,0 +1,38 @@
+.app-promo-banner {
+    padding: 120px 0 180px 0;
+}
+.app-promo-banner__title {
+    margin-bottom: 41px;
+}
+.app-promo-banner__description {
+    margin-bottom: 65px;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 1.3;
+    letter-spacing: -0.02em;
+    color: var(--gray);
+}
+
+.app-promo-banner__button-container {
+    display: flex;
+    justify-content: flex-start;
+    column-gap: 19px;
+}
+
+.app-download-banner {
+    max-width: 510px;
+}
+
+.voucher__container {
+    justify-content: center;
+    display: flex;
+    column-gap: 10vw;
+}
+
+@media (max-width: 1200px) {
+    .voucher__container {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+}

@@ -1,0 +1,31 @@
+.brands {
+    padding: 60px 0 55px;
+    background-color: var(--yellow);
+}
+
+.brands__list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 120px;
+    mix-blend-mode: multiply;
+}
+
+@media (max-width: 1800px) {
+    .brands__list {
+        column-gap: 55px;
+    }
+}
+@media (max-width: 1300px) {
+    .brands {
+        padding: 15px 0 15px;
+    }
+    .brands__list {
+        column-gap: 25px;
+    }
+}
+@media (max-width: 800px) {
+    .brands__list {
+        column-gap: 0px;
+    }
+}

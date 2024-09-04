@@ -1,0 +1,13 @@
+.teenFavourite {
+    padding-top: 120px;
+    padding-bottom: 145px;
+}
+.teenFavourite__header {
+    margin-bottom: 100px;
+}
+
+.teenFavourite__cards {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 30px;
+}
