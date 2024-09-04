@@ -20,9 +20,9 @@ This project is a landing page for a fashion website, built using React. 🎨
 
 ## How to Run 🚀
 
-1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the project directory: `cd <project-directory>`
+1. Clone the repository: `git clone https://github.com/rubaka-pl/Fashion-React`
+2. Navigate to the project directory: `cd Fashion-React`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 
-Enjoy exploring the project and learning more about React! 🌟
+
