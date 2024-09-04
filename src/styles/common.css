@@ -9,6 +9,9 @@ body {
     font-family: "Poppins", sans-serif;
     color: var(--textColor);
 }
+body.menu-open {
+    overflow: hidden;
+}
 
 .container {
     max-width: 1720px;
