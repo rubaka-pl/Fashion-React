@@ -1,6 +1,8 @@
 # Fashion Landing Page 🌟
 
 This project is a landing page for a fashion website, built using React. 🎨
+## Preview
+https://66d82c5b176d697ef0412287--statuesque-flan-1005d0.netlify.app/
 
 ## Features 🛠️
 
@@ -34,3 +36,5 @@ To create an optimized production build of the project:
 2. Run the build script: `npm run build`
 
 This will generate a `build` directory with a production-ready version of the application.
+
+
